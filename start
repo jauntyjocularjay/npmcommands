@@ -14,12 +14,11 @@ git submodule add https://github.com/jauntyjocularjay/kwikgit.git sh
 git submodule add https://github.com/jauntyjocularjay/phaserhelpers.git phaserhelpers
 git submodule add https://github.com/jauntyjocularjay/vanillajscomponent.git vjsc
 
-bash sh/gitBranches.sh
+bash sh/gitBranches
 
 echo "enter 'npmcommands' to finish the process"
 
-bash sh/gitDSubmodule.sh
+bash sh/gitDSubmodule
 
 echo "and we are done! Happy coding!"
 
-cd ..
