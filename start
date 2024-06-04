@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -r "starting to setup an NPM project"
+echo "starting to setup an NPM project"
 
 cp index.html ../index.html
 cp index.mjs ../index.mjs
