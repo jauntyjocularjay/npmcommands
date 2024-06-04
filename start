@@ -20,3 +20,5 @@ echo "enter 'npmcommands' to finish the process"
 bash sh/gitDSubmodule.sh
 
 echo "and we are done! Happy coding!"
+
+cd ..
