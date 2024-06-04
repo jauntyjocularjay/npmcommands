@@ -4,6 +4,7 @@ echo "starting to setup an NPM project"
 
 cp index.html ../index.html
 cp index.mjs ../index.mjs
+cp index.css ../index.css
 cp template.gitignore ../.gitignore
 
 cd ..
