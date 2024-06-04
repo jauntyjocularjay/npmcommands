@@ -12,7 +12,7 @@ npm init
 
 git submodule add https://github.com/jauntyjocularjay/kwikgit.git sh
 git submodule add https://github.com/jauntyjocularjay/phaserhelpers.git phaserhelpers
-git submodule add https://github.com/jauntyjocularjay/vanillajscomponent.git vjsc
+git submodule add https://github.com/jauntyjocularjay/vanillajscomponents.git vjsc
 
 bash sh/gitBranches
 
