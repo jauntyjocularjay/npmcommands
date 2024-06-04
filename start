@@ -11,7 +11,8 @@ touch README.md
 npm init
 
 git submodule add https://github.com/jauntyjocularjay/kwikgit.git sh
-git submodule add https://github.com/jauntyjocularjay/PhaserHelpers.git phaserhelpers
+git submodule add https://github.com/jauntyjocularjay/phaserhelpers.git phaserhelpers
+git submodule add https://github.com/jauntyjocularjay/vanillajscomponent.git vjsc
 
 bash sh/gitBranches.sh
 
