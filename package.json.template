@@ -1,0 +1,19 @@
+{
+    "n`ame": "",
+    "version": "0.0.1",
+    "main": "index.mjs",
+    "scripts": {
+        "test": "clear && node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage",
+        "test--trace-warnings": "clear && node --experimental-vm-modules --trace-warnings node_modules/jest/bin/jest.js --coverage",
+        "setup": "npm i",
+        "submodule": "git submodule update --init --recursive"
+    },
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "author": "jauntyjocularjay",
+    "license": "MIT",
+    "homepage": "",
+    "description": ""
+}

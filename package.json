@@ -1,9 +1,11 @@
 {
-  "name": "",
-  "version": "0.0.1",
+  "name": "npmcommands",
+  "version": "0.1.0",
   "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup-static": "bash static.sh",
+    "setup-typescript": "bash typescript.sh"
   },
   "repository": {
     "type": "",
@@ -11,9 +13,6 @@
   },
   "author": "jauntyjocularjay",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
   "homepage": "",
   "description": ""
 }
