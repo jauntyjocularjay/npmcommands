@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd npm
+
 echo "starting to setup an NPM static-webpage project"
 
 cp static/index.html ../index.html
@@ -19,11 +21,11 @@ git submodule add https://github.com/jauntyjocularjay/vanillajscomponents.git vj
 
 echo "Have your github email address ready and press enter"
 
-bash sh/gitBranches
+bash git/gitBranches
 
 echo "enter 'npmcommands' to finish the process"
 
-bash sh/gitDSubmodule
+bash git/gitDSubmodule
 
 npm i
 
