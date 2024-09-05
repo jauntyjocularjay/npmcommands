@@ -21,11 +21,11 @@ git submodule add https://github.com/jauntyjocularjay/vanillajscomponents.git vj
 
 echo "Have your github email address ready and press enter"
 
-bash git/gitBranches
+bash git/Branches
 
 echo "enter 'npmcommands' to finish the process"
 
-bash git/gitDSubmodule
+bash git/DSubmodule
 
 npm i
 
